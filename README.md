@@ -36,3 +36,4 @@ On peut également accéder à une version pré-compilée de la machine virtuell
 -	ENS2_Theis1.ipynb : solution à l’équation de diffusivité en régime transitoire – solution de Theis, analyse et exploitation
 -	ENS2_Nappe_Theis.ipynb : essais de nappe - méthode de Theis
 -	ENS2_Nappe_Jacob.ipynb : essais de nappe – méthode de Cooper Jacob
+- ENS2_Superposition : principe de superposition, analyse effets de limite et remontée
