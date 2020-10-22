@@ -28,7 +28,7 @@ Plusieurs sites permettent de créer des machines virtuelles. La solution retenu
 
 il suffit ensuite de préciser le site GitHub contenant les dépôts des fichiers Notebooks (https://github.com/larroque852/20202021_ENS2_HYDRODYN) puis lancer la création dela machine virtuelle (cela peut prendre un peu de temps). On a alors accès à une interface identique à celle du logiciel Jupyter Notebook/
 On peut également accéder à une version pré-compilée de la machine virtuelle via l’adresse suivante (cela peut mettre un peu de temps à se lancer... c'est normal!) :
-- https://mybinder.org/v2/gh/larroque852/20202021_ENS2_HYDRODYN/d4cc1f8f09cb4e486df0e545a5e54ad7838f7eb8
+- https://mybinder.org/v2/gh/larroque852/20202021_ENS2_HYDRODYN/345633fdb1eede75f02428b5462ef5a5d9728c7a
 
 ## Notebooks disponibles
 -	ENS2_diff.ipynb : utilisation de l’équation de diffusivité. Applications en nappe captive et nappe libre
