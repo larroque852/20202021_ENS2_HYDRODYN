@@ -21,7 +21,7 @@ La méthode la plus simple est d’installer la suite Anaconda qui intègre l’
 -	https://realpython.com/jupyter-notebook-introduction/
 -	https://github.com/molmod/Tutorial
 
-Utilisation du Notebook en ligne :
+***Utilisation du Notebook en ligne :***
 Les Notebooks sont également exploitables en ligne, en utilisant une machine virtuelle hébergée par un site web. Les fonctionnalités sont identiques mais la génération de la machine virtuelle peut prendre un peu de temps au lancement. L’utilisation nécessite évidemment une connexion internet active tout le temps de l’exploitation.
 Plusieurs sites permettent de créer des machines virtuelles. La solution retenue est basée sur le site Binder :
 - https://mybinder.org/
