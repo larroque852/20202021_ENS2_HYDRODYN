@@ -11,17 +11,17 @@ Les outils permettant de créer et d'utiliser des Notebooks sont gratuits, et le
 Une bonne introduction globale aux notebooks est disponible à l’adresse suivante :
 -	https://blog.quantinsti.com/jupyter-notebook-tutorial-installation-components-magic-commands/
 
-Accès aux ressources du module Hydrodynamique souterraine :
+**Accès aux ressources du module Hydrodynamique souterraine :**
 Les notebooks et données nécessaires sont stockées sur le site d’échange libre GitHub, sur l’espace de stockage dédié. Tous les fichiers sont téléchargeables.
 - https://github.com/larroque852/20202021_ENS2_HYDRODYN
 
-Utilisation du Notebook sur poste « déconnecté » :
+**Utilisation du Notebook sur poste « déconnecté » :**
 La méthode la plus simple est d’installer la suite Anaconda qui intègre l’éditeur Jupyter Notebook. Cette suite intègre également une distribution Python. De nombreux sites détaillent la procédure et les sites pour installer ces logiciels.
 -	https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5559646-installez-jupyter-sur-votre-propre-ordinateur
 -	https://realpython.com/jupyter-notebook-introduction/
 -	https://github.com/molmod/Tutorial
 
-***Utilisation du Notebook en ligne :***
+**Utilisation du Notebook en ligne :**
 Les Notebooks sont également exploitables en ligne, en utilisant une machine virtuelle hébergée par un site web. Les fonctionnalités sont identiques mais la génération de la machine virtuelle peut prendre un peu de temps au lancement. L’utilisation nécessite évidemment une connexion internet active tout le temps de l’exploitation.
 Plusieurs sites permettent de créer des machines virtuelles. La solution retenue est basée sur le site Binder :
 - https://mybinder.org/
