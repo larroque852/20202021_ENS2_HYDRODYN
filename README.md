@@ -2,6 +2,7 @@
 # Notebooks compléments de cours
 ## ENSEGID - ENS2
 ### Enseignants: F. Larroque, A. Dupuy, G. Cohen, O. Atteia
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 Ces notebooks constituent un complément au cours d'hydrodynamique souterraine ENS2. Ils viennent en renfort des exercices de TD abordés lors des séances en présentiel et proposent un approfondissement quant à leur résolution en intégrant l'outil de programmation Python.
 
